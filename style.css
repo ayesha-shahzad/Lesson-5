@@ -1,0 +1,20 @@
+.bigbox {
+    display: flex;
+    background-color: none;
+    justify-content: space-around;
+    height: 60px;
+    flex-wrap: wrap;
+}
+.bigbox1 {
+    display: flex;
+    background-color: red;
+    justify-content: space-between;
+    width: 200px;
+    flex-wrap: wrap;
+}
+.bigbox2 {
+    display: flex;
+    justify-content: space-evenly;
+    width: 200px;
+    flex-wrap: wrap;
+}
